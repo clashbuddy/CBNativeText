@@ -1,0 +1,11 @@
+{
+    "name": "studio.clashbuddy.natives.cbtext",
+    "displayName": "ClashBuddy Native Text (Android)",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "description": "Render TextMeshPro text as native (Android) image textures for use in Unity UI.",
+    "author": {
+      "name": "ClashBuddy Studio",
+      "email": "dev@clashbuddy.studio"
+    }
+  }
